@@ -1,0 +1,2 @@
+Flask modülü ile HTML kontrolü
+Challenge kodu tamamlanmadı.
