@@ -1,0 +1,1 @@
+Flask modülü ile HTML render alma.
